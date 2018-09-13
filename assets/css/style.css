@@ -223,16 +223,16 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+    /* this is where you will beging the media Queries */
   
-  /* this is where you will beging the media Queries */
+    @media screen and (max-width: 980px) {
+
+    }
+    @media screen and (max-width: 768px) {
   
-  @media screen and (max-width: 980px) {
-
-  }
-  @media screen and (max-width: 768px) {
-
-  }
-  @media screen and (max-width: 640px) {
-
-  }
- /* hello/*
+    }
+    @media screen and (max-width: 640px) {
+  
+    }
+   /* hello/*

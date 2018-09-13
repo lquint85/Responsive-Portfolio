@@ -1,2 +1,2 @@
-# My-Biographical-Website
-My Biographical Website
+# Responsive-Portfolio
+Responsive-Portfolio
